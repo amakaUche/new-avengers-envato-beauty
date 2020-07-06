@@ -19,7 +19,7 @@ body, html{
 .hero-img {
     background: linear-gradient(rgba(20, 20, 20, .5),
           rgba(20, 20, 20, .8)),
-           url("/images/girl-table.jpg");
+           url("/origami5-spa/img/girl-table.jpg");
     background-size: cover;
     background-repeat: none;
    height: 50%;
